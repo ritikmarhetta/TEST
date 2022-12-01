@@ -1,0 +1,81 @@
+body{
+    height:90ch ;
+    width: 198ch;
+    background-color: aqua;
+    border: 5px solid black;
+    
+}
+.tag1
+{
+    text-decoration-line: none;
+   position: absolute;
+   left: 19ch;
+   top: 8ch;
+}
+.tag2
+{
+    text-decoration-line: none;
+  position: absolute;
+  left: 45ch;
+  top: 8ch;
+}
+.tag3
+{
+    text-decoration-line: none;
+    position: absolute;
+    left: 90ch;
+    top: 2ch;
+}
+.container2
+{
+    border: 15px solid black;
+    text-align: center;
+    font-style: italic;
+    color: black;
+    width: 20cm;
+    position: absolute;
+    top: 9ch;
+    background-color: darkred;
+    transition: 0.20ms;
+}
+
+.container3
+{
+    border: 14px solid black;
+    text-align: center;
+    font-style: italic;
+    width: 20cm;
+    position: absolute;
+    bottom: 10ch;
+    left: 21cm;
+}
+.bar1
+{
+    
+    color: black;
+    position: absolute;
+    left: 7cm;
+    top: 1cm;
+    text-decoration-line: none;
+}
+.bar2
+{
+    color: black;
+    text-decoration-line: none;
+    position: absolute;
+    left: 15cm;
+    top: 1cm;
+}
+.bar3
+{
+    color: black;
+    text-decoration-line: none;
+    position: absolute;
+    left: 24cm;
+    top: 1cm;
+}
+.all
+{
+    text-align: center;
+
+}
